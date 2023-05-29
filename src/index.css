@@ -1,0 +1,11 @@
+@import url('./assets/styles/reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Voltaire&display=swap');
+
+
+:root {
+  --voltaire-font-family: 'Voltaire'
+}
+
+:root {
+  font-family: var(--voltaire-font-family);
+}
